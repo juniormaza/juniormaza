@@ -33,6 +33,6 @@ Profissional em Transição de Carreira para a área de **Testes e QA**
     
   </div>
 
-<[Snake animation](https://github.com/juniormaza/juniormaza/blob/output/github-contribution-grid-snake.svg)>
+![Snake animation](https://github.com/juniormaza/juniormaza/blob/output/github-contribution-grid-snake.svg)
              
           
