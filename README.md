@@ -27,6 +27,8 @@ Profissional em Transição de Carreira para a área de **Testes e QA**
 ### Você também me encontra em:
 <a href="https://www.linkedin.com/in/amarildo-dutra-barreto-junior">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.instagram.com/maza_junior/?next=%2F" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a/>
              
           
