@@ -5,7 +5,8 @@ Profissional em Transição de Carreira para a área de **Testes e QA**
 - 💻Atualmente mais focado em:
 <div display="inline">
   <img width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
-  <img width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />       
+  <img width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" /> 
+  <img width="40" height="30" src= "https://avatars.githubusercontent.com/u/12528662?s=200&v=4"/>
   <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" height="30" width="40" alt="restassured logo" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg" height="30" width="40" alt="selenium logo"  />
   <img src="https://www.svgrepo.com/show/353413/appium.svg" height="30" width="40" alt="appium logo"  />
